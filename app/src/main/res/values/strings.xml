@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GOptik</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="GOptik">GOptik</string>
+    <string name="selamat_datang">Selamat datang di GOptik</string>
+    <string name="media_pembelajaran">Aplikasi Media Pembelajaran Fisika Optik</string>
+    <string name="literasi">Literasi</string>
+</resources>
